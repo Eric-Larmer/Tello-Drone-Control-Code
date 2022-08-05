@@ -1,5 +1,7 @@
+import keyboard
+
 def droneCtrl (self):
-        
+        #fsdjklsadfj
         if keyboard.is_pressed("w"):
             #print("forward")
             self.send('forward 20',self.portCtrl)
