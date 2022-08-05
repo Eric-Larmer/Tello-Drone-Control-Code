@@ -1,4 +1,4 @@
-import droneClass as drone
+import TelloDrone as drone
 import keyboard
 import sys
 import threading
